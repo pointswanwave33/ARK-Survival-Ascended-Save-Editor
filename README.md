@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`ARK-Survival-Ascended-Save-Editor` · Updated: 2026-10-07
+`ARK-Survival-Ascended-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `ark-survival-ascended` `save-editor` `survival` `unreal-engine`
